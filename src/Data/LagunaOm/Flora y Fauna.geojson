@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Flora y Fauna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae" }, "geometry": { "type": "Point", "coordinates": [ -89.10361111066419, 18.444166666358626 ] } },
+{ "type": "Feature", "properties": { "ScieName": null, "AcNameUs": null, "Family": null }, "geometry": { "type": "Point", "coordinates": [ -89.27222442641613, 18.636667251792289 ] } },
+{ "type": "Feature", "properties": { "ScieName": null, "AcNameUs": null, "Family": null }, "geometry": { "type": "Point", "coordinates": [ -89.264442443463963, 18.612499237150132 ] } },
+{ "type": "Feature", "properties": { "ScieName": null, "AcNameUs": null, "Family": null }, "geometry": { "type": "Point", "coordinates": [ -89.25499725342047, 18.598888397281769 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Tamandua mexicana mexicana", "AcNameUs": "Tamandua mexicana mexicana", "Family": "Myrmecophagidae" }, "geometry": { "type": "Point", "coordinates": [ -88.762, 18.436000000199897 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Tamandua mexicana mexicana", "AcNameUs": "Tamandua mexicana mexicana", "Family": "Myrmecophagidae" }, "geometry": { "type": "Point", "coordinates": [ -88.694000000099891, 18.396000000100003 ] } }
+]
+}

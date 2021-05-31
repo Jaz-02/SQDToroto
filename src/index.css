@@ -19,3 +19,50 @@ code {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.popup-info {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  align-items: center;
+  padding: 2px;
+}
+
+.info-button {
+  position: absolute;
+  width: 79px;
+  height: 38px;
+  margin-left: 60%;
+  background: #0ed956;
+  border-radius: 0px 0px 15px 0px;
+  font-size: 10px;
+}
+
+.popup-info h2 {
+  text-align: center;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0ed956;
+}
+.popup-info p {
+  text-align: center;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12.8px;
+  line-height: 19px;
+
+  color: #3a3a3a;
+}
+.popup-info a {
+  text-align: end;
+}
+
+.map-container {
+  height: 400px;
+}

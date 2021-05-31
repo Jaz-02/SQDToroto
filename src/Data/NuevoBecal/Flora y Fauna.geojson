@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Flora y Fauna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.758333333416545, 19.158333333516566 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.338611110913973, 18.912777778171971 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.358611111413609, 19.234722222052937 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.209166667008049, 19.179444444605508 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.203333333266698, 19.181111111388702 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.89066666683317, 18.532027778159488 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.492500000374662, 18.4094444447054 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Adelia barbinervis", "AcNameUs": "Adelia barbinervis", "Family": "Euphorbiaceae", "Genus": "Adelia" }, "geometry": { "type": "Point", "coordinates": [ -89.10361111066419, 18.444166666358626 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Tamandua mexicana mexicana", "AcNameUs": "Tamandua mexicana mexicana", "Family": "Myrmecophagidae", "Genus": "Tamandua" }, "geometry": { "type": "Point", "coordinates": [ -88.762, 18.436000000199897 ] } },
+{ "type": "Feature", "properties": { "ScieName": "Tamandua mexicana mexicana", "AcNameUs": "Tamandua mexicana mexicana", "Family": "Myrmecophagidae", "Genus": "Tamandua" }, "geometry": { "type": "Point", "coordinates": [ -88.694000000099891, 18.396000000100003 ] } }
+]
+}

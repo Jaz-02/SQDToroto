@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Localidades Cercanas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOM_LOC": "NUEVO BÉCAR", "POBTOT": 557 }, "geometry": { "type": "Point", "coordinates": [ -89.130555555494482, 18.724444444255766 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "CINCO DE MAYO", "POBTOT": 92 }, "geometry": { "type": "Point", "coordinates": [ -89.135277777747206, 18.787500000324826 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "VERACRUZ", "POBTOT": 148 }, "geometry": { "type": "Point", "coordinates": [ -89.08888888861128, 18.736388888936119 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "ALTAMIRA", "POBTOT": 4 }, "geometry": { "type": "Point", "coordinates": [ -89.082222222377595, 18.736944444230744 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "NUEVA VIDA", "POBTOT": 276 }, "geometry": { "type": "Point", "coordinates": [ -89.367777777822141, 18.803055555769333 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "NUEVO BÉCAL (EL 19)", "POBTOT": 393 }, "geometry": { "type": "Point", "coordinates": [ -89.302499999675206, 18.609722222402695 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "RICARDO FLORES MAGÓN (LAGUNA COOXLÍ)", "POBTOT": 270 }, "geometry": { "type": "Point", "coordinates": [ -89.164444444655373, 18.822500000074967 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "UNIÓN 20 DE JUNIO (MANCOLONA)", "POBTOT": 449 }, "geometry": { "type": "Point", "coordinates": [ -89.293333333266673, 18.809444444805308 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "NINGUNO", "POBTOT": 11 }, "geometry": { "type": "Point", "coordinates": [ -89.165277778046971, 18.81888888931087 ] } },
+{ "type": "Feature", "properties": { "NOM_LOC": "LOS DOS HERMANOS", "POBTOT": 4 }, "geometry": { "type": "Point", "coordinates": [ -89.160555555794247, 18.813333333666492 ] } }
+]
+}
