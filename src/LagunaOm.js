@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from "react";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl"
-
 import ADP from "./Data/LagunaOm/ADP.geojson"
 import CO2 from "./Data/LagunaOm/Ton CO2 carbono.geojson"
-
 import FF from "./Data/LagunaOm/Flora y Fauna.geojson"
 
 
