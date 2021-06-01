@@ -2,7 +2,9 @@ import React, { useState, useEffect } from "react";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl"
 import ADP from "./Data/LagunaOm/ADP.geojson"
 import CO2 from "./Data/LagunaOm/Ton CO2 carbono.geojson"
+
 import FF from "./Data/LagunaOm/Flora y Fauna.geojson"
+
 
 
 mapboxgl.accessToken ="pk.eyJ1IjoiZWxpemFiZXRoZ2giLCJhIjoiY2twOHBkaHNvMDN1MjJvcDR6aGhpM2h2ayJ9.U3EK7VZc-urMFKxXy83cpQ";
