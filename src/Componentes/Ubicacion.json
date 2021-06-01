@@ -1,28 +1,30 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-      "type":"Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [18.4486309, -90.2192165]
-      },
-      "properties": {
-        "ubicationId": "1",
-        "title": "Nuevo Becal",
-        "description": "Campeche"
-      }
+  "type": "FeatureCollection",
+  "features": [{
+    "type":"Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.4486309, -90.2192165]
     },
-    
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [18.609742, -89.3112548]
-      },
-      "properties": {
-        "ubicationId": "2",
-        "title": "Laguna Om",
-        "description": "Quintana Roo"
-      }
-    }]
-  }
+    "properties": {
+      "ubicationId": "1",
+      "title": "Nuevo Becal",
+      "description": "Campeche"
+    }
+  },
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.609742, -89.3112548]
+    },
+    "properties": {
+      "ubicationId": "2",
+      "title": "Laguna Om",
+      "description": "Quintana Roo"
+    }
+  }]
+}
+
+  
