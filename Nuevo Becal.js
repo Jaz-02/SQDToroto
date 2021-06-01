@@ -4,7 +4,7 @@ import MapboxGeocoder from "mapbox-gl"
 
 mapboxgl.accessToken ="pk.eyJ1IjoiZWxpemFiZXRoZ2giLCJhIjoiY2twOHBkaHNvMDN1MjJvcDR6aGhpM2h2ayJ9.U3EK7VZc-urMFKxXy83cpQ";
 
-export default function LagunaOm() {
+export default function NuevoBecal() {
   const [pageIsMounted, setPageIsMounted] = useState(false)
   
   useEffect(()=>{
@@ -19,27 +19,27 @@ export default function LagunaOm() {
       // Add a data source containing GeoJSON data.
       map.addSource("maine", {
         type: "geojson",
-        data: "./LagunaOm/ADP.geojson"
+        data: "./NuevoBecal/ADP.geojson"
       });
 
       map.addSource("maine", {
         type: "geojson",
-        data: "./LagunaOm/Cobertura Vegetal.geojson"
+        data: "./NuevoBecal/Carbono.geojson"
       });
 
       map.addSource("maine", {
         type: "geojson",
-        data: "./LagunaOm/Flora y Fauna.geojson"
+        data: "./NuevoBecal/Cobertura de la Vegetación.geojson"
       });
 
       map.addSource("maine", {
         type: "geojson",
-        data: "./LagunaOm/Localidades Beneficiadas.geojson"
+        data: "./NuevoBecal/Flora y Fauna.geojson"
       });
   
       map.addSource("maine", {
         type: "geojson",
-        data: "./LagunaOm/Ton CO2 carbono.geojson"
+        data: "./NuevoBecal/Localidades Cercanas.geojson"
       });
       // Add a new layer to visualize the polygon.
       map.addLayer({
