@@ -54,7 +54,7 @@ export default function Map() {
               <div className="popup-info">
               <h2>{selectedPin.properties.title}</h2>
               <p>{selectedPin.properties.description}</p>
-              <Link to="lagunaom">
+              <Link to="lagunaOm">
                 <button className="info-button">Mas Información</button>
               </Link>
               </div>
